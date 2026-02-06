@@ -16,6 +16,6 @@ Currently documenting my learning journey through TryHackMe.
 - Offensive security concepts
 
 ## Platforms
-- TryHackMe: (https://tryhackme.com/)
+- TryHackMe: (https://tryhackme.com/p/sohayl)
 - GitHub: This profile documents my work
 
